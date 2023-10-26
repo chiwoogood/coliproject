@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h2>하이 난 민초야</h2>
+	<h2>하이 난 민초</h2>
 </body>
 </html>

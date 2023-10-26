@@ -1,3 +1,4 @@
 .metadata/
 **/target/
-coliproject/target/m2e-wtp/web-resources/META-INF/maven/kr.spring/controller/pom.properties
+pom.properties
+coliproject/target/m2e-wtp/web-resources/METAINF/maven/kr.spring/controller/pom.properties
